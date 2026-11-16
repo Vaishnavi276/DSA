@@ -8,6 +8,7 @@ My Data Structures and Algorithms practice, featuring LeetCode problems solved u
 | ------- |
 | [0001-two-sum](https://github.com/Vaishnavi276/DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Vaishnavi276/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/Vaishnavi276/DSA/tree/master/0015-3sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -48,6 +49,7 @@ My Data Structures and Algorithms practice, featuring LeetCode problems solved u
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Vaishnavi276/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/Vaishnavi276/DSA/tree/master/0015-3sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -56,4 +58,8 @@ My Data Structures and Algorithms practice, featuring LeetCode problems solved u
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Vaishnavi276/DSA/tree/master/0005-longest-palindromic-substring) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Vaishnavi276/DSA/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->

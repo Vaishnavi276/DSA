@@ -48,6 +48,7 @@ My Data Structures and Algorithms practice, featuring LeetCode problems solved u
 | [0005-longest-palindromic-substring](https://github.com/Vaishnavi276/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Vaishnavi276/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Vaishnavi276/DSA/tree/master/0020-valid-parentheses) |
+| [0072-edit-distance](https://github.com/Vaishnavi276/DSA/tree/master/0072-edit-distance) |
 ## Sliding Window
 |  |
 | ------- |
@@ -75,6 +76,7 @@ My Data Structures and Algorithms practice, featuring LeetCode problems solved u
 | [0042-trapping-rain-water](https://github.com/Vaishnavi276/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Vaishnavi276/DSA/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Vaishnavi276/DSA/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/Vaishnavi276/DSA/tree/master/0072-edit-distance) |
 ## Manacher
 |  |
 | ------- |

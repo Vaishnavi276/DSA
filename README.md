@@ -33,6 +33,7 @@ My Data Structures and Algorithms practice, featuring LeetCode problems solved u
 | [0007-reverse-integer](https://github.com/Vaishnavi276/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Vaishnavi276/DSA/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Vaishnavi276/DSA/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/Vaishnavi276/DSA/tree/master/0070-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
@@ -73,6 +74,7 @@ My Data Structures and Algorithms practice, featuring LeetCode problems solved u
 | [0005-longest-palindromic-substring](https://github.com/Vaishnavi276/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Vaishnavi276/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Vaishnavi276/DSA/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Vaishnavi276/DSA/tree/master/0070-climbing-stairs) |
 ## Manacher
 |  |
 | ------- |
@@ -98,4 +100,8 @@ My Data Structures and Algorithms practice, featuring LeetCode problems solved u
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Vaishnavi276/DSA/tree/master/0042-trapping-rain-water) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Vaishnavi276/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

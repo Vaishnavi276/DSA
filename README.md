@@ -31,12 +31,14 @@ My Data Structures and Algorithms practice, featuring LeetCode problems solved u
 | [0002-add-two-numbers](https://github.com/Vaishnavi276/DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Vaishnavi276/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Vaishnavi276/DSA/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/Vaishnavi276/DSA/tree/master/0050-powx-n) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vaishnavi276/DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Vaishnavi276/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Vaishnavi276/DSA/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/Vaishnavi276/DSA/tree/master/0050-powx-n) |
 ## String
 |  |
 | ------- |

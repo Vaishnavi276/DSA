@@ -15,6 +15,7 @@ My Data Structures and Algorithms practice, featuring LeetCode problems solved u
 | [0053-maximum-subarray](https://github.com/Vaishnavi276/DSA/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/Vaishnavi276/DSA/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Vaishnavi276/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Vaishnavi276/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
 |  |
 | ------- |
@@ -81,6 +82,7 @@ My Data Structures and Algorithms practice, featuring LeetCode problems solved u
 | [0070-climbing-stairs](https://github.com/Vaishnavi276/DSA/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Vaishnavi276/DSA/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/Vaishnavi276/DSA/tree/master/0097-interleaving-string) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Vaishnavi276/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Manacher
 |  |
 | ------- |

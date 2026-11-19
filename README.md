@@ -13,6 +13,7 @@ My Data Structures and Algorithms practice, featuring LeetCode problems solved u
 | [0041-first-missing-positive](https://github.com/Vaishnavi276/DSA/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Vaishnavi276/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Vaishnavi276/DSA/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/Vaishnavi276/DSA/tree/master/0078-subsets) |
 ## Hash Table
 |  |
 | ------- |
@@ -89,6 +90,7 @@ My Data Structures and Algorithms practice, featuring LeetCode problems solved u
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Vaishnavi276/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0078-subsets](https://github.com/Vaishnavi276/DSA/tree/master/0078-subsets) |
 ## Stack
 |  |
 | ------- |
@@ -106,4 +108,8 @@ My Data Structures and Algorithms practice, featuring LeetCode problems solved u
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Vaishnavi276/DSA/tree/master/0070-climbing-stairs) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Vaishnavi276/DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->

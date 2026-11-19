@@ -10,6 +10,7 @@ My Data Structures and Algorithms practice, featuring LeetCode problems solved u
 | [0004-median-of-two-sorted-arrays](https://github.com/Vaishnavi276/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/Vaishnavi276/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vaishnavi276/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Vaishnavi276/DSA/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/Vaishnavi276/DSA/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Vaishnavi276/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Vaishnavi276/DSA/tree/master/0053-maximum-subarray) |
@@ -72,6 +73,7 @@ My Data Structures and Algorithms practice, featuring LeetCode problems solved u
 | [0005-longest-palindromic-substring](https://github.com/Vaishnavi276/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Vaishnavi276/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vaishnavi276/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Vaishnavi276/DSA/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Vaishnavi276/DSA/tree/master/0042-trapping-rain-water) |
 ## Dynamic Programming
 |  |

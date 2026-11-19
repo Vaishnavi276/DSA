@@ -24,12 +24,14 @@ My Data Structures and Algorithms practice, featuring LeetCode problems solved u
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vaishnavi276/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Vaishnavi276/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/Vaishnavi276/DSA/tree/master/0041-first-missing-positive) |
+| [0141-linked-list-cycle](https://github.com/Vaishnavi276/DSA/tree/master/0141-linked-list-cycle) |
 ## Linked List
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vaishnavi276/DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Vaishnavi276/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Vaishnavi276/DSA/tree/master/0025-reverse-nodes-in-k-group) |
+| [0141-linked-list-cycle](https://github.com/Vaishnavi276/DSA/tree/master/0141-linked-list-cycle) |
 ## Math
 |  |
 | ------- |
@@ -75,6 +77,7 @@ My Data Structures and Algorithms practice, featuring LeetCode problems solved u
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vaishnavi276/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Vaishnavi276/DSA/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Vaishnavi276/DSA/tree/master/0042-trapping-rain-water) |
+| [0141-linked-list-cycle](https://github.com/Vaishnavi276/DSA/tree/master/0141-linked-list-cycle) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -137,4 +140,8 @@ My Data Structures and Algorithms practice, featuring LeetCode problems solved u
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Vaishnavi276/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Vaishnavi276/DSA/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->

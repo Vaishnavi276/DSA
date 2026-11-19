@@ -121,4 +121,16 @@ My Data Structures and Algorithms practice, featuring LeetCode problems solved u
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Vaishnavi276/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+## Tree
+|  |
+| ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Vaishnavi276/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Vaishnavi276/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Vaishnavi276/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 <!---LeetCode Topics End-->

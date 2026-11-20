@@ -17,6 +17,7 @@ My Data Structures and Algorithms practice, featuring LeetCode problems solved u
 | [0078-subsets](https://github.com/Vaishnavi276/DSA/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Vaishnavi276/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vaishnavi276/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0189-rotate-array](https://github.com/Vaishnavi276/DSA/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,6 +44,7 @@ My Data Structures and Algorithms practice, featuring LeetCode problems solved u
 | [0009-palindrome-number](https://github.com/Vaishnavi276/DSA/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Vaishnavi276/DSA/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Vaishnavi276/DSA/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/Vaishnavi276/DSA/tree/master/0189-rotate-array) |
 ## Recursion
 |  |
 | ------- |
@@ -84,6 +86,7 @@ My Data Structures and Algorithms practice, featuring LeetCode problems solved u
 | [0141-linked-list-cycle](https://github.com/Vaishnavi276/DSA/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Vaishnavi276/DSA/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vaishnavi276/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/Vaishnavi276/DSA/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
 | ------- |

@@ -32,6 +32,7 @@ My Data Structures and Algorithms practice, featuring LeetCode problems solved u
 | [0021-merge-two-sorted-lists](https://github.com/Vaishnavi276/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Vaishnavi276/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0141-linked-list-cycle](https://github.com/Vaishnavi276/DSA/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/Vaishnavi276/DSA/tree/master/0143-reorder-list) |
 ## Math
 |  |
 | ------- |
@@ -47,6 +48,7 @@ My Data Structures and Algorithms practice, featuring LeetCode problems solved u
 | [0021-merge-two-sorted-lists](https://github.com/Vaishnavi276/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Vaishnavi276/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/Vaishnavi276/DSA/tree/master/0050-powx-n) |
+| [0143-reorder-list](https://github.com/Vaishnavi276/DSA/tree/master/0143-reorder-list) |
 ## String
 |  |
 | ------- |
@@ -78,6 +80,7 @@ My Data Structures and Algorithms practice, featuring LeetCode problems solved u
 | [0027-remove-element](https://github.com/Vaishnavi276/DSA/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Vaishnavi276/DSA/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/Vaishnavi276/DSA/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/Vaishnavi276/DSA/tree/master/0143-reorder-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -107,6 +110,7 @@ My Data Structures and Algorithms practice, featuring LeetCode problems solved u
 | [0020-valid-parentheses](https://github.com/Vaishnavi276/DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Vaishnavi276/DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Vaishnavi276/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0143-reorder-list](https://github.com/Vaishnavi276/DSA/tree/master/0143-reorder-list) |
 ## Bracket Sequences
 |  |
 | ------- |

@@ -25,6 +25,7 @@ My Data Structures and Algorithms practice, featuring LeetCode problems solved u
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Vaishnavi276/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/Vaishnavi276/DSA/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/Vaishnavi276/DSA/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Vaishnavi276/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 ## Linked List
 |  |
 | ------- |
@@ -33,6 +34,7 @@ My Data Structures and Algorithms practice, featuring LeetCode problems solved u
 | [0025-reverse-nodes-in-k-group](https://github.com/Vaishnavi276/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0141-linked-list-cycle](https://github.com/Vaishnavi276/DSA/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Vaishnavi276/DSA/tree/master/0143-reorder-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Vaishnavi276/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 ## Math
 |  |
 | ------- |
@@ -81,6 +83,7 @@ My Data Structures and Algorithms practice, featuring LeetCode problems solved u
 | [0042-trapping-rain-water](https://github.com/Vaishnavi276/DSA/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/Vaishnavi276/DSA/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Vaishnavi276/DSA/tree/master/0143-reorder-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Vaishnavi276/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 ## Dynamic Programming
 |  |
 | ------- |

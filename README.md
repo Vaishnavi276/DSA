@@ -15,6 +15,7 @@ My Data Structures and Algorithms practice, featuring LeetCode problems solved u
 | [0041-first-missing-positive](https://github.com/Vaishnavi276/DSA/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Vaishnavi276/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Vaishnavi276/DSA/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/Vaishnavi276/DSA/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Vaishnavi276/DSA/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Vaishnavi276/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vaishnavi276/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -44,6 +45,7 @@ My Data Structures and Algorithms practice, featuring LeetCode problems solved u
 | [0007-reverse-integer](https://github.com/Vaishnavi276/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Vaishnavi276/DSA/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Vaishnavi276/DSA/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/Vaishnavi276/DSA/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Vaishnavi276/DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Vaishnavi276/DSA/tree/master/0189-rotate-array) |
 ## Recursion

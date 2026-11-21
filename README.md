@@ -119,6 +119,7 @@ My Data Structures and Algorithms practice, featuring LeetCode problems solved u
 | [0042-trapping-rain-water](https://github.com/Vaishnavi276/DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Vaishnavi276/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/Vaishnavi276/DSA/tree/master/0143-reorder-list) |
+| [0225-implement-stack-using-queues](https://github.com/Vaishnavi276/DSA/tree/master/0225-implement-stack-using-queues) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -156,4 +157,12 @@ My Data Structures and Algorithms practice, featuring LeetCode problems solved u
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Vaishnavi276/DSA/tree/master/0141-linked-list-cycle) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Vaishnavi276/DSA/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Vaishnavi276/DSA/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->

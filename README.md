@@ -29,6 +29,7 @@ My Data Structures and Algorithms practice, featuring LeetCode problems solved u
 | [0041-first-missing-positive](https://github.com/Vaishnavi276/DSA/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/Vaishnavi276/DSA/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vaishnavi276/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0242-valid-anagram](https://github.com/Vaishnavi276/DSA/tree/master/0242-valid-anagram) |
 ## Linked List
 |  |
 | ------- |
@@ -66,6 +67,7 @@ My Data Structures and Algorithms practice, featuring LeetCode problems solved u
 | [0020-valid-parentheses](https://github.com/Vaishnavi276/DSA/tree/master/0020-valid-parentheses) |
 | [0072-edit-distance](https://github.com/Vaishnavi276/DSA/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/Vaishnavi276/DSA/tree/master/0097-interleaving-string) |
+| [0242-valid-anagram](https://github.com/Vaishnavi276/DSA/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
 | ------- |
@@ -110,6 +112,7 @@ My Data Structures and Algorithms practice, featuring LeetCode problems solved u
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Vaishnavi276/DSA/tree/master/0015-3sum) |
+| [0242-valid-anagram](https://github.com/Vaishnavi276/DSA/tree/master/0242-valid-anagram) |
 ## Backtracking
 |  |
 | ------- |

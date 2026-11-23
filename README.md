@@ -50,6 +50,7 @@ My Data Structures and Algorithms practice, featuring LeetCode problems solved u
 | [0066-plus-one](https://github.com/Vaishnavi276/DSA/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Vaishnavi276/DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Vaishnavi276/DSA/tree/master/0189-rotate-array) |
+| [0282-expression-add-operators](https://github.com/Vaishnavi276/DSA/tree/master/0282-expression-add-operators) |
 ## Recursion
 |  |
 | ------- |
@@ -68,6 +69,7 @@ My Data Structures and Algorithms practice, featuring LeetCode problems solved u
 | [0072-edit-distance](https://github.com/Vaishnavi276/DSA/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/Vaishnavi276/DSA/tree/master/0097-interleaving-string) |
 | [0242-valid-anagram](https://github.com/Vaishnavi276/DSA/tree/master/0242-valid-anagram) |
+| [0282-expression-add-operators](https://github.com/Vaishnavi276/DSA/tree/master/0282-expression-add-operators) |
 ## Sliding Window
 |  |
 | ------- |
@@ -118,6 +120,7 @@ My Data Structures and Algorithms practice, featuring LeetCode problems solved u
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Vaishnavi276/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0078-subsets](https://github.com/Vaishnavi276/DSA/tree/master/0078-subsets) |
+| [0282-expression-add-operators](https://github.com/Vaishnavi276/DSA/tree/master/0282-expression-add-operators) |
 ## Stack
 |  |
 | ------- |

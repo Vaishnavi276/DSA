@@ -20,6 +20,7 @@ My Data Structures and Algorithms practice, featuring LeetCode problems solved u
 | [0084-largest-rectangle-in-histogram](https://github.com/Vaishnavi276/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vaishnavi276/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/Vaishnavi276/DSA/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/Vaishnavi276/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -79,6 +80,7 @@ My Data Structures and Algorithms practice, featuring LeetCode problems solved u
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Vaishnavi276/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Vaishnavi276/DSA/tree/master/0035-search-insert-position) |
+| [0287-find-the-duplicate-number](https://github.com/Vaishnavi276/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -96,6 +98,7 @@ My Data Structures and Algorithms practice, featuring LeetCode problems solved u
 | [0143-reorder-list](https://github.com/Vaishnavi276/DSA/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vaishnavi276/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/Vaishnavi276/DSA/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/Vaishnavi276/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -147,6 +150,7 @@ My Data Structures and Algorithms practice, featuring LeetCode problems solved u
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Vaishnavi276/DSA/tree/master/0078-subsets) |
+| [0287-find-the-duplicate-number](https://github.com/Vaishnavi276/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -167,6 +171,7 @@ My Data Structures and Algorithms practice, featuring LeetCode problems solved u
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Vaishnavi276/DSA/tree/master/0141-linked-list-cycle) |
+| [0287-find-the-duplicate-number](https://github.com/Vaishnavi276/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Design
 |  |
 | ------- |
@@ -177,4 +182,8 @@ My Data Structures and Algorithms practice, featuring LeetCode problems solved u
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Vaishnavi276/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Vaishnavi276/DSA/tree/master/0232-implement-queue-using-stacks) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Vaishnavi276/DSA/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->

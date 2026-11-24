@@ -111,6 +111,7 @@ My Data Structures and Algorithms practice, featuring LeetCode problems solved u
 | [0097-interleaving-string](https://github.com/Vaishnavi276/DSA/tree/master/0097-interleaving-string) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vaishnavi276/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/Vaishnavi276/DSA/tree/master/0322-coin-change) |
+| [0337-house-robber-iii](https://github.com/Vaishnavi276/DSA/tree/master/0337-house-robber-iii) |
 ## Manacher
 |  |
 | ------- |
@@ -161,6 +162,7 @@ My Data Structures and Algorithms practice, featuring LeetCode problems solved u
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Vaishnavi276/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0337-house-robber-iii](https://github.com/Vaishnavi276/DSA/tree/master/0337-house-robber-iii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -170,6 +172,7 @@ My Data Structures and Algorithms practice, featuring LeetCode problems solved u
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Vaishnavi276/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0337-house-robber-iii](https://github.com/Vaishnavi276/DSA/tree/master/0337-house-robber-iii) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -197,4 +200,12 @@ My Data Structures and Algorithms practice, featuring LeetCode problems solved u
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Vaishnavi276/DSA/tree/master/0322-coin-change) |
+## Depth-First Search
+|  |
+| ------- |
+| [0337-house-robber-iii](https://github.com/Vaishnavi276/DSA/tree/master/0337-house-robber-iii) |
+## DP on Trees
+|  |
+| ------- |
+| [0337-house-robber-iii](https://github.com/Vaishnavi276/DSA/tree/master/0337-house-robber-iii) |
 <!---LeetCode Topics End-->

@@ -18,6 +18,7 @@ My Data Structures and Algorithms practice, featuring LeetCode problems solved u
 | [0066-plus-one](https://github.com/Vaishnavi276/DSA/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Vaishnavi276/DSA/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Vaishnavi276/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0088-merge-sorted-array](https://github.com/Vaishnavi276/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vaishnavi276/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/Vaishnavi276/DSA/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Vaishnavi276/DSA/tree/master/0287-find-the-duplicate-number) |
@@ -97,6 +98,7 @@ My Data Structures and Algorithms practice, featuring LeetCode problems solved u
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vaishnavi276/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Vaishnavi276/DSA/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Vaishnavi276/DSA/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/Vaishnavi276/DSA/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Vaishnavi276/DSA/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Vaishnavi276/DSA/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vaishnavi276/DSA/tree/master/0160-intersection-of-two-linked-lists) |
@@ -122,6 +124,7 @@ My Data Structures and Algorithms practice, featuring LeetCode problems solved u
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Vaishnavi276/DSA/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/Vaishnavi276/DSA/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Vaishnavi276/DSA/tree/master/0242-valid-anagram) |
 ## Backtracking
 |  |

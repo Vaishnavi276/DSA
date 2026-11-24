@@ -21,6 +21,7 @@ My Data Structures and Algorithms practice, featuring LeetCode problems solved u
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vaishnavi276/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/Vaishnavi276/DSA/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Vaishnavi276/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/Vaishnavi276/DSA/tree/master/0322-coin-change) |
 ## Hash Table
 |  |
 | ------- |
@@ -109,6 +110,7 @@ My Data Structures and Algorithms practice, featuring LeetCode problems solved u
 | [0072-edit-distance](https://github.com/Vaishnavi276/DSA/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/Vaishnavi276/DSA/tree/master/0097-interleaving-string) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vaishnavi276/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0322-coin-change](https://github.com/Vaishnavi276/DSA/tree/master/0322-coin-change) |
 ## Manacher
 |  |
 | ------- |
@@ -163,6 +165,7 @@ My Data Structures and Algorithms practice, featuring LeetCode problems solved u
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Vaishnavi276/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0322-coin-change](https://github.com/Vaishnavi276/DSA/tree/master/0322-coin-change) |
 ## Binary Tree
 |  |
 | ------- |
@@ -186,4 +189,12 @@ My Data Structures and Algorithms practice, featuring LeetCode problems solved u
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Vaishnavi276/DSA/tree/master/0287-find-the-duplicate-number) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Vaishnavi276/DSA/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Vaishnavi276/DSA/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->

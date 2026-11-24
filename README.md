@@ -32,6 +32,7 @@ My Data Structures and Algorithms practice, featuring LeetCode problems solved u
 | [0141-linked-list-cycle](https://github.com/Vaishnavi276/DSA/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vaishnavi276/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/Vaishnavi276/DSA/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/Vaishnavi276/DSA/tree/master/0387-first-unique-character-in-a-string) |
 ## Linked List
 |  |
 | ------- |
@@ -72,6 +73,7 @@ My Data Structures and Algorithms practice, featuring LeetCode problems solved u
 | [0097-interleaving-string](https://github.com/Vaishnavi276/DSA/tree/master/0097-interleaving-string) |
 | [0242-valid-anagram](https://github.com/Vaishnavi276/DSA/tree/master/0242-valid-anagram) |
 | [0282-expression-add-operators](https://github.com/Vaishnavi276/DSA/tree/master/0282-expression-add-operators) |
+| [0387-first-unique-character-in-a-string](https://github.com/Vaishnavi276/DSA/tree/master/0387-first-unique-character-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -188,6 +190,7 @@ My Data Structures and Algorithms practice, featuring LeetCode problems solved u
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Vaishnavi276/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Vaishnavi276/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/Vaishnavi276/DSA/tree/master/0387-first-unique-character-in-a-string) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -208,4 +211,8 @@ My Data Structures and Algorithms practice, featuring LeetCode problems solved u
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/Vaishnavi276/DSA/tree/master/0337-house-robber-iii) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Vaishnavi276/DSA/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->

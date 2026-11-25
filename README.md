@@ -25,6 +25,7 @@ My Data Structures and Algorithms practice, featuring LeetCode problems solved u
 | [0322-coin-change](https://github.com/Vaishnavi276/DSA/tree/master/0322-coin-change) |
 | [0622-design-circular-queue](https://github.com/Vaishnavi276/DSA/tree/master/0622-design-circular-queue) |
 | [0739-daily-temperatures](https://github.com/Vaishnavi276/DSA/tree/master/0739-daily-temperatures) |
+| [0875-koko-eating-bananas](https://github.com/Vaishnavi276/DSA/tree/master/0875-koko-eating-bananas) |
 ## Hash Table
 |  |
 | ------- |
@@ -88,6 +89,7 @@ My Data Structures and Algorithms practice, featuring LeetCode problems solved u
 | [0004-median-of-two-sorted-arrays](https://github.com/Vaishnavi276/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Vaishnavi276/DSA/tree/master/0035-search-insert-position) |
 | [0287-find-the-duplicate-number](https://github.com/Vaishnavi276/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0875-koko-eating-bananas](https://github.com/Vaishnavi276/DSA/tree/master/0875-koko-eating-bananas) |
 ## Divide and Conquer
 |  |
 | ------- |

@@ -23,6 +23,7 @@ My Data Structures and Algorithms practice, featuring LeetCode problems solved u
 | [0189-rotate-array](https://github.com/Vaishnavi276/DSA/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Vaishnavi276/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/Vaishnavi276/DSA/tree/master/0322-coin-change) |
+| [0622-design-circular-queue](https://github.com/Vaishnavi276/DSA/tree/master/0622-design-circular-queue) |
 ## Hash Table
 |  |
 | ------- |
@@ -44,6 +45,7 @@ My Data Structures and Algorithms practice, featuring LeetCode problems solved u
 | [0143-reorder-list](https://github.com/Vaishnavi276/DSA/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vaishnavi276/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Vaishnavi276/DSA/tree/master/0237-delete-node-in-a-linked-list) |
+| [0622-design-circular-queue](https://github.com/Vaishnavi276/DSA/tree/master/0622-design-circular-queue) |
 ## Math
 |  |
 | ------- |
@@ -188,12 +190,14 @@ My Data Structures and Algorithms practice, featuring LeetCode problems solved u
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Vaishnavi276/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Vaishnavi276/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/Vaishnavi276/DSA/tree/master/0622-design-circular-queue) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Vaishnavi276/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Vaishnavi276/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vaishnavi276/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0622-design-circular-queue](https://github.com/Vaishnavi276/DSA/tree/master/0622-design-circular-queue) |
 ## Pigeonhole Principle
 |  |
 | ------- |

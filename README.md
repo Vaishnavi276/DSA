@@ -26,6 +26,7 @@ My Data Structures and Algorithms practice, featuring LeetCode problems solved u
 | [0622-design-circular-queue](https://github.com/Vaishnavi276/DSA/tree/master/0622-design-circular-queue) |
 | [0739-daily-temperatures](https://github.com/Vaishnavi276/DSA/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/Vaishnavi276/DSA/tree/master/0875-koko-eating-bananas) |
+| [0994-rotting-oranges](https://github.com/Vaishnavi276/DSA/tree/master/0994-rotting-oranges) |
 ## Hash Table
 |  |
 | ------- |
@@ -180,6 +181,7 @@ My Data Structures and Algorithms practice, featuring LeetCode problems solved u
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Vaishnavi276/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0322-coin-change](https://github.com/Vaishnavi276/DSA/tree/master/0322-coin-change) |
+| [0994-rotting-oranges](https://github.com/Vaishnavi276/DSA/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
@@ -233,4 +235,8 @@ My Data Structures and Algorithms practice, featuring LeetCode problems solved u
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/Vaishnavi276/DSA/tree/master/0933-number-of-recent-calls) |
+## Matrix
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/Vaishnavi276/DSA/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->

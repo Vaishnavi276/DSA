@@ -196,6 +196,7 @@ My Data Structures and Algorithms practice, featuring LeetCode problems solved u
 | [0225-implement-stack-using-queues](https://github.com/Vaishnavi276/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Vaishnavi276/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/Vaishnavi276/DSA/tree/master/0622-design-circular-queue) |
+| [0933-number-of-recent-calls](https://github.com/Vaishnavi276/DSA/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
 | ------- |
@@ -203,6 +204,7 @@ My Data Structures and Algorithms practice, featuring LeetCode problems solved u
 | [0232-implement-queue-using-stacks](https://github.com/Vaishnavi276/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vaishnavi276/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/Vaishnavi276/DSA/tree/master/0622-design-circular-queue) |
+| [0933-number-of-recent-calls](https://github.com/Vaishnavi276/DSA/tree/master/0933-number-of-recent-calls) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -227,4 +229,8 @@ My Data Structures and Algorithms practice, featuring LeetCode problems solved u
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Vaishnavi276/DSA/tree/master/0387-first-unique-character-in-a-string) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/Vaishnavi276/DSA/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->

@@ -28,6 +28,7 @@ My Data Structures and Algorithms practice, featuring LeetCode problems solved u
 | [0875-koko-eating-bananas](https://github.com/Vaishnavi276/DSA/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/Vaishnavi276/DSA/tree/master/0994-rotting-oranges) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Vaishnavi276/DSA/tree/master/1019-next-greater-node-in-linked-list) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Vaishnavi276/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Hash Table
 |  |
 | ------- |
@@ -155,6 +156,7 @@ My Data Structures and Algorithms practice, featuring LeetCode problems solved u
 | [0739-daily-temperatures](https://github.com/Vaishnavi276/DSA/tree/master/0739-daily-temperatures) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Vaishnavi276/DSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Vaishnavi276/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Vaishnavi276/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -215,6 +217,7 @@ My Data Structures and Algorithms practice, featuring LeetCode problems solved u
 | [0387-first-unique-character-in-a-string](https://github.com/Vaishnavi276/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/Vaishnavi276/DSA/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/Vaishnavi276/DSA/tree/master/0933-number-of-recent-calls) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Vaishnavi276/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -251,4 +254,8 @@ My Data Structures and Algorithms practice, featuring LeetCode problems solved u
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/Vaishnavi276/DSA/tree/master/1143-longest-common-subsequence) |
+## Simulation
+|  |
+| ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Vaishnavi276/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->

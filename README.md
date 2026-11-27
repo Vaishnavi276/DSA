@@ -83,6 +83,7 @@ My Data Structures and Algorithms practice, featuring LeetCode problems solved u
 | [0282-expression-add-operators](https://github.com/Vaishnavi276/DSA/tree/master/0282-expression-add-operators) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vaishnavi276/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Vaishnavi276/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1143-longest-common-subsequence](https://github.com/Vaishnavi276/DSA/tree/master/1143-longest-common-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
@@ -125,6 +126,7 @@ My Data Structures and Algorithms practice, featuring LeetCode problems solved u
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vaishnavi276/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/Vaishnavi276/DSA/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/Vaishnavi276/DSA/tree/master/0337-house-robber-iii) |
+| [1143-longest-common-subsequence](https://github.com/Vaishnavi276/DSA/tree/master/1143-longest-common-subsequence) |
 ## Manacher
 |  |
 | ------- |
@@ -245,4 +247,8 @@ My Data Structures and Algorithms practice, featuring LeetCode problems solved u
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/Vaishnavi276/DSA/tree/master/0994-rotting-oranges) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Vaishnavi276/DSA/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->

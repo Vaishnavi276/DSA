@@ -82,6 +82,7 @@ My Data Structures and Algorithms practice, featuring LeetCode problems solved u
 | [0242-valid-anagram](https://github.com/Vaishnavi276/DSA/tree/master/0242-valid-anagram) |
 | [0282-expression-add-operators](https://github.com/Vaishnavi276/DSA/tree/master/0282-expression-add-operators) |
 | [0387-first-unique-character-in-a-string](https://github.com/Vaishnavi276/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Vaishnavi276/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -151,6 +152,7 @@ My Data Structures and Algorithms practice, featuring LeetCode problems solved u
 | [0232-implement-queue-using-stacks](https://github.com/Vaishnavi276/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0739-daily-temperatures](https://github.com/Vaishnavi276/DSA/tree/master/0739-daily-temperatures) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Vaishnavi276/DSA/tree/master/1019-next-greater-node-in-linked-list) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Vaishnavi276/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Bracket Sequences
 |  |
 | ------- |

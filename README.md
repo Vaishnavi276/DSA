@@ -29,6 +29,7 @@ My Data Structures and Algorithms practice, featuring LeetCode problems solved u
 | [0994-rotting-oranges](https://github.com/Vaishnavi276/DSA/tree/master/0994-rotting-oranges) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Vaishnavi276/DSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Vaishnavi276/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Vaishnavi276/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 ## Hash Table
 |  |
 | ------- |
@@ -218,6 +219,7 @@ My Data Structures and Algorithms practice, featuring LeetCode problems solved u
 | [0622-design-circular-queue](https://github.com/Vaishnavi276/DSA/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/Vaishnavi276/DSA/tree/master/0933-number-of-recent-calls) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Vaishnavi276/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Vaishnavi276/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -258,4 +260,5 @@ My Data Structures and Algorithms practice, featuring LeetCode problems solved u
 |  |
 | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Vaishnavi276/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Vaishnavi276/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
